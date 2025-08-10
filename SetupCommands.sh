@@ -1,6 +1,7 @@
 
 
-# Step 1: Update all system packages
+# Step 1: Update all system packages he
+
 sudo yum update -y
 
 # Step 2: Install Git, Java 8, and Maven
