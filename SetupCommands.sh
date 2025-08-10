@@ -1,6 +1,6 @@
 
 
-# Step 1: Update all system packages ehh
+# Step 1: Update all system packages ehhhehe
 
 sudo yum update -y
 
